@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-0.20.2-cdh3u0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.5.0-cdh5.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-client-0.98.6-cdh5.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-common-0.98.6-cdh5.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-server.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
